@@ -9,7 +9,7 @@
 --1.4 train_lr.py         使用resnet18网络，在SGD及Adam优化器上使用不同初始学习率进行训练，通过TensorBoard记录训练过程
 --1.5 loss_b.py           由于前面实验存在测试集loss在一定epoch后异常增加的现象，使用flood方法以不同的b参数值来改进resnet18的训练过程，通过TensorBoard记录训练过程
 ```
-# 2.经过以上文件运行后目录结构如下:
+##  2.经过以上文件运行后目录结构如下:
 ```
 -----checkpoints 用于保存训练好的resnet网络权重
      data        保存下载好的Cifar10数据集
