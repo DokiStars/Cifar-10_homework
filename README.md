@@ -2,12 +2,12 @@
 使用ResNet系列网络测试不同优化器在Cifar-10数据集上的表现结果并分析
 
 ## 1.环境配置
-···
+```
 python 3.x
 torch  2.2.2
 torchvision 0.17.2
 sklearn 1.5.2
-···
+```
 
 ## 2.各python文件介绍
 ```
