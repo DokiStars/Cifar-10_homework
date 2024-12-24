@@ -3,10 +3,10 @@
 
 ## 1.环境配置
 ```
-python 3.x
-torch  2.2.2
-torchvision 0.17.2
-sklearn 1.5.2
+python --------3.x
+torch  --------2.2.2
+torchvision ---0.17.2
+sklearn -------1.5.2
 ```
 
 ## 2.各python文件介绍
